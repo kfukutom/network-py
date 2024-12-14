@@ -1,0 +1,8 @@
+# Basic requirements for a Python project
+numpy
+pandas
+scipy
+matplotlib
+
+# For C compiler support
+cython
